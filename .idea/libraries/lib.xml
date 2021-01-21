@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QL_Cafe/QL_Cafe/dist/lib/mssql-jdbc-8.4.1.jre14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QL_Cafe/QL_Cafe/dist/lib/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/QL_Cafe/QL_Cafe/dist/lib/jl1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
